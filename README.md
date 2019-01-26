@@ -6,6 +6,8 @@ AI trained to deliver checkmate in an endgame with one queen.
 
 AI is trained to deliver checkmate in an endgame with one queen. Update is done after the game.
 
+[a link](https://en.wikipedia.org/wiki/Temporal_difference_learning)
+
 
 ### Training progress
 
