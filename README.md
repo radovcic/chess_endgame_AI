@@ -8,7 +8,7 @@ AI is trained to deliver checkmate in an endgame starting with black king, white
 
 The training is done via TD(lambda) [temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning) algorithm. From a random starting position both sides play best moves according to the value function. Update of parameters of neural network is done after the game.
 
-Ratio of white wins during 20000 training games is shown below. An example game played by both untrained and trained model are also shown. 
+Ratio of white wins during 20000 training games is shown below. In an example game played by the untrained model, random moves are played without any progress towards checkmate. In an example game played by the trained model, moves lead to checkmate.
 
 ### Training progress:
 
