@@ -3,6 +3,8 @@ AI trained to deliver checkmate in an endgame with one queen.
 
 ## Description
 
+![game](trained_game.pgn)
+
 
 
 
