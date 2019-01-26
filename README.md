@@ -3,6 +3,8 @@ AI trained to deliver checkmate in an endgame with one queen.
 
 ## Description
 
+AI is trained to deliver checkmate in an endgame with one queen. 
+
 
 ### Training progress
 
@@ -12,7 +14,7 @@ AI trained to deliver checkmate in an endgame with one queen.
 <img src="untrained_game.gif" width="300"/>
 
 ### Game played by the trained model
-<img src="untrained_game.gif" width="300"/>
+<img src="trained_game.gif" width="300"/>
 
 
 
