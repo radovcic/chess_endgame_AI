@@ -1,9 +1,10 @@
 # chess_endgame_reinforcement_learning
+
 AI trained to deliver checkmate in an endgame with one queen.
 
 ## Description
 
-AI is trained to deliver checkmate in an endgame with one queen. 
+AI is trained to deliver checkmate in an endgame with one queen. Update is done after the game.
 
 
 ### Training progress
