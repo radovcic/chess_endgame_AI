@@ -4,7 +4,7 @@ AI trained to deliver checkmate in an endgame with one queen.
 
 ## Description
 
-AI is trained to deliver checkmate in an endgame with one queen. The training is done via TD( {\displaystyle \lambda } \lambda )($\lambda$) learning algorithmTemporal difference learning
+AI is trained to deliver checkmate in an endgame with one queen. The training \lambda is done via TD( {\displaystyle \lambda } \lambda )($\lambda$) learning algorithmTemporal difference learning
 
 Update is done after the game.
 
