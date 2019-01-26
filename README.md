@@ -5,7 +5,7 @@ AI trained to deliver checkmate in an endgame with one queen.
 
 
 ### Training progress
-![training progress](train_plot.pgn)
+![training progress](train_plot.png)
 
 ### Game played by the untrained model
 ![game by untrained model](untrained_game.gif)
